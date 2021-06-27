@@ -1,0 +1,49 @@
+
+.navbar{
+   background-color:black;
+    padding: 12px 12px;
+    border-radius: 12px;
+    
+
+}
+.navbar ul{
+    overflow: auto;
+}
+.navbar ul li {
+    float: left;
+    
+}
+.navbar li a{
+    margin: 12px 12px;
+    text-decoration: none;
+    color: white;
+}
+.navbar li a:hover{
+    color: crimson;
+}
+.box1 h2{
+    margin: 30px 30px;
+    font-family: fantasy;
+
+}
+
+.box1{
+    background-color: antiquewhite ;
+}
+.box2{
+    background-color: rgb(146, 144, 204);
+}
+
+.box3{
+    background-color: bisque;
+    padding: 43px 18px;
+}
+.box3 .ids{
+    background-color: rgb(233, 223, 232);
+    margin: 12px 12px;
+    padding: 0px 34px;
+}
+.box3 ul li{
+    float: left;
+ margin: 12px 12px;
+}
